@@ -1,2 +1,2 @@
-# sarniyozov.github.io
-Mening birinchi saytim
+# Orif Sarniyozov
+Мои домашние задания
